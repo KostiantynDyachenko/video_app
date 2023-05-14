@@ -50,9 +50,5 @@ If you would like to download the code and try it for yourself:
 4. Open your browser at: `http://localhost:8080`
 
 ## Author
-[Fani Abdullah](https://www.instagram.com/fabduul/)
 
-If you like this project and wish to say to say thanks - I'm always open to a coffee!
-
-## License
-[MIT]
+Kostiantyn Dyachenko
